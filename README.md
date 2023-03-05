@@ -1,2 +1,2 @@
 # helm-charts
-Public, shareable charts value files
+Public, shareable charts value files.
