@@ -1,0 +1,14 @@
+global:
+  redis:
+    password: "change-me-during-deployment"
+metrics:
+  enabled: true
+master:
+  persistence:
+    enabled: false
+replica:
+  replicaCount: 1
+  persistence:
+    enabled: false
+sentinel:
+  enabled: true
